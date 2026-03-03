@@ -2,8 +2,13 @@
 
 # API REST - Laravel + MongoDB
 
-API RESTful desarrollada con Laravel y MongoDB para la gestión de categorías y posts.
+<p align="center">
+  <a href="https://youtu.be/1hLWcHHmY20">
+    <img src="https://img.shields.io/badge/Demo-YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
 
+API RESTful desarrollada con Laravel y MongoDB para la gestión de categorías y posts.
 ---
 
 ## ⚙️ Requisitos Previos
